@@ -12,4 +12,4 @@
 - 📫 How to reach me **bsse1223@iit.du.ac.bd**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TashfiaJ&show_icons=true&locale=en" alt="TashfiaJ" /> <br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TashfiaJ&" alt="TashfiaJ" /></p>
+
