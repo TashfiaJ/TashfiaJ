@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tashfia Jannath</h1>
+<h3 align="center">Software Engineering student</h3><br><br>
 
-<!--
-**TashfiaJ/TashfiaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TashfiaJ&label=Profile%20views&color=0e75b6&style=flat" alt="TashfiaJ" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying in my 6th semester**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning the topics from my academic courses
+
+- 💬 Ask me about **Angular, FastAPI, React**
+
+- 📫 How to reach me **bsse1223@iit.du.ac.bd**
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TashfiaJ&show_icons=true&locale=en" alt="TashfiaJ" /> <br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TashfiaJ&" alt="TashfiaJ" /></p>
