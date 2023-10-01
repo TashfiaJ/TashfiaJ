@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TashfiaJ&label=Profile%20views&color=0e75b6&style=flat" alt="TashfiaJ" /> </p>
 
-- 🔭 I’m currently studying in my 6th semester**
+- 🔭 I’m currently studying in my 6th semester
 
 - 🌱 I’m currently learning the topics from my academic courses
 
