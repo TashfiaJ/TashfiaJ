@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning the topics from my academic courses
 
-- 💬 Ask me about **Angular, FastAPI, React**
+//- 💬 Ask me about **Angular, FastAPI, React**
 
 - 📫 How to reach me **bsse1223@iit.du.ac.bd**
 
